@@ -56,8 +56,7 @@ soon as $I$ is a sufficient reason for one tree of $F_c$. This yields:
 
 When $\epsilon_{F_c,\mathbf{x}}(S) = 0$, $S$ is an abductive explanation. In
 general, $S$ is a $\delta$-probable reason with
-$\delta = 1 - \epsilon_{F_c,\mathbf{x}}(S)$. Full proofs are in
-[`appendix.pdf`](appendix.pdf).
+$\delta = 1 - \epsilon_{F_c,\mathbf{x}}(S)$.
 
 ## Experiments
 
